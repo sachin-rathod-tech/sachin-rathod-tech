@@ -2,18 +2,18 @@
 
 <h3 align="center">
 
-### 🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
+ 🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
 
 
-### uilding scalable cloud infrastructure and automating deployments with DevOps best practices.</h3>
+ uilding scalable cloud infrastructure and automating deployments with DevOps best practices.</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AWS, Docker, Kubernetes, Terraform & Jenkins**
+- 🌱 Currently learning **AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD**
 - 💻 Passionate about DevOps and Cloud Computing
-- 📚 Practicing Linux, Git & GitHub every day
+- 📚 Practicing Linux, Git , GitHub and Docker Project 
 - 🎯 Goal: Become a DevOps Engineer
 
 ---
@@ -25,17 +25,18 @@
 </p>
 
 ---
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+✅ Docker 3-Tier Application
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sachin-rathod-tech&show_icons=true&theme=tokyonight" />
-</p>
+✅ Kubernetes Nginx Deployment
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rathod-tech&theme=tokyonight" />
-</p>
+✅ AWS EC2 + Nginx Deployment
 
+✅ CI/CD Pipeline using Jenkins
+
+✅ Terraform AWS Infrastructure
+ 
 ---
 
 ## 🌐 Connect with Me
