@@ -2,9 +2,10 @@
 
 <h3 align="center">
 
-🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
+### 🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
 
-Building scalable cloud infrastructure and automating deployments with DevOps best practices.</h3>
+
+### uilding scalable cloud infrastructure and automating deployments with DevOps best practices.</h3>
 
 ---
 
