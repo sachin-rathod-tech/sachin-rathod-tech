@@ -7,7 +7,9 @@
  🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
 
 
- uilding scalable cloud infrastructure and automating deployments with DevOps best practices.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins;Always+Learning+New+Things" />
+</p>
 
 ---
 
