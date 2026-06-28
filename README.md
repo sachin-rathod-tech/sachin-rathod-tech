@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=HARSHAL%20GITE&fontSize=55&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SACHIN%20RATHOD&fontSize=55&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
 </p>
 <h3 align="center">
 
