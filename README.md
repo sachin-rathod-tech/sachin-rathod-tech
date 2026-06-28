@@ -50,6 +50,53 @@
 ✅ Terraform AWS Infrastructure
  
 ---
+## Project 
+
+ ### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
+A serverless Angular application deployed on AWS infrastructure.
+
+- **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
+- **Features**:
+  - Scalable frontend hosted on AWS S3
+  - Secure domain mapping using Route 53
+  - CDN integration via CloudFront for faster delivery
+
+---
+
+### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
+A student management system to handle registrations, grades, and profiles.
+
+- **Tech Stack**: Java Spring Boot, Angular
+- **Features**:
+  - CRUD operations for student records
+  - Responsive design for seamless mobile use
+  - Role-based access for students and administrators
+
+---
+
+### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
+A robust 3-tier architecture for a student management application.
+
+- **Architecture**:
+  - **Frontend**: Angular
+  - **Backend**: Java Spring Boot
+  - **Database**: MySQL
+- **Features**:
+  - Secure API interactions
+  - Centralized database with scalable backend
+  - Deployed on AWS with load balancing and high availability
+
+---
+
+### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
+A Netflix-inspired application with movie browsing and streaming features.
+
+- **Tech Stack**: React.js, TMDB API
+- **Features**:
+  - Browse and search for movies by genre
+  - Modern, responsive design
+
+---  
 
 ## 🌐 Connect with Me
 
