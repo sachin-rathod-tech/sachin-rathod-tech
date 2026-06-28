@@ -123,7 +123,7 @@ A Netflix-inspired application with movie browsing and streaming features.
 ---
 
 <div align="center">
----
+ 
 
 # 👀 Profile Views
 
