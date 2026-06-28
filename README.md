@@ -131,6 +131,5 @@ A Netflix-inspired application with movie browsing and streaming features.
   <img src="https://komarev.com/ghpvc/?username=sachin-rathod-tech&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
 
 ⭐ Thanks for visiting my profile!
