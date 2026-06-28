@@ -20,11 +20,6 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sachin-rathod-tech/sachin-rathod-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ## 📊 GitHub Stats
 
@@ -37,13 +32,6 @@
 </p>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-rathod-tech&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
