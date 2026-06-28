@@ -27,11 +27,8 @@
 ---
 ## 🚀 Featured Projects
 
-✅ Docker 3-Tier Application
 
 ✅ Kubernetes Nginx Deployment
-
-✅ AWS EC2 + Nginx Deployment
 
 ✅ CI/CD Pipeline using Jenkins
 
