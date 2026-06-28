@@ -110,8 +110,8 @@ A Netflix-inspired application with movie browsing and streaming features.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://www.linkedin.com/in/sachinrathod4a3737239utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
+<a href="https://www.linkedin.com/in/sachin-rathod-4a3737239?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
