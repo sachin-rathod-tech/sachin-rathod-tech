@@ -50,7 +50,7 @@
 ✅ Terraform AWS Infrastructure
  
 ---
-## Project 
+## 🚀 Project 
 
  ### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
 A serverless Angular application deployed on AWS infrastructure.
