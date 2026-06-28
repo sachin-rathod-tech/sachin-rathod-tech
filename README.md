@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Sachin Rathod
 
-<h3 align="center">🚀 Aspiring DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins</h3>
+<h3 align="center">
+
+🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
+
+Building scalable cloud infrastructure and automating deployments with DevOps best practices.</h3>
 
 ---
 
