@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sachin+Rathod;DevOps+Engineer+%7C+AWS+Cloud;Linux+%7C+Docker+%7C+Git;Learning+Kubernetes+%26+Terraform;Future+Cloud+Engineer+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Harshal+Gite;DevOps+Engineer+%7C+AWS+Cloud;Linux+%7C+Docker+%7C+Git;Learning+Kubernetes+%26+Terraform;Future+Cloud+Engineer+🚀" />
 </h1>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=HARSHAL%20GITE&fontSize=55&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
+</p>
 <h3 align="center">
 
  🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
