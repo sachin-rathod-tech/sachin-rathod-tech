@@ -1,5 +1,4 @@
 
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=SACHIN%20RATHOD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
@@ -11,10 +10,8 @@
  🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
 
 
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins;Always+Learning+New+Things" />
 </p>
-<p align="center">
 
 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
