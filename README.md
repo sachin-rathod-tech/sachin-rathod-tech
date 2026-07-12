@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@
 - 📚 Practicing Linux, Git , GitHub and Docker Project 
 - 🎯 Goal: Become a DevOps Engineer
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tools & Technologies:
 
@@ -34,11 +34,11 @@
 |----------|----------|----------|----------|------|------|-------|------|------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"  title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌱 Contribution Graph
 
@@ -48,7 +48,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -59,7 +59,7 @@
 
 ✅ Terraform AWS Infrastructure
  
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ## 🚀 Project 
 
  ### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
@@ -71,7 +71,7 @@ A serverless Angular application deployed on AWS infrastructure.
   - Secure domain mapping using Route 53
   - CDN integration via CloudFront for faster delivery
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
 A student management system to handle registrations, grades, and profiles.
@@ -82,7 +82,7 @@ A student management system to handle registrations, grades, and profiles.
   - Responsive design for seamless mobile use
   - Role-based access for students and administrators
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
 A robust 3-tier architecture for a student management application.
@@ -96,7 +96,7 @@ A robust 3-tier architecture for a student management application.
   - Centralized database with scalable backend
   - Deployed on AWS with load balancing and high availability
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
 A Netflix-inspired application with movie browsing and streaming features.
@@ -106,7 +106,7 @@ A Netflix-inspired application with movie browsing and streaming features.
   - Browse and search for movies by genre
   - Modern, responsive design
 
----  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 
 # 🌐 Connect With Me
 
@@ -128,7 +128,6 @@ A Netflix-inspired application with movie browsing and streaming features.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 👀 Profile Views
 
@@ -136,5 +135,6 @@ A Netflix-inspired application with movie browsing and streaming features.
   <img src="https://komarev.com/ghpvc/?username=sachin-rathod-tech&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ⭐ Thanks for visiting my profile!
