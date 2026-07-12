@@ -1,147 +1,136 @@
+<h1 align="center">Hi 👋, I'm Sachin Rathod</h1>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=SACHIN%20RATHOD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
 <h3 align="center">
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
- 🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
-
+DevOps Engineer | AWS Cloud | Docker | Kubernetes | Terraform | Jenkins
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Cloud+Engineer;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Linux+Administrator;Always+Learning+New+Technologies"/>
 </p>
+
 <p align="center">
-
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+<img src="https://komarev.com/ghpvc/?username=sachin-rathod-tech&style=for-the-badge"/>
 </p>
 
-## 🚀 About Me
+---
 
-- ☁️ AWS Cloud Enthusiast
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes Orchestration
-- 🏗 Infrastructure as Code with Terraform
-- 🔄 CI/CD using Jenkins
+# 👨‍💻 About Me
+
+I am a DevOps Engineer passionate about building scalable, reliable, and automated cloud infrastructure.
+
+### 🔹 Areas of Interest
+
+- ☁️ AWS Cloud
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🏗 Terraform
+- 🔄 CI/CD with Jenkins
 - 🐧 Linux Administration
-- 🌐 Git & GitHub
-- 💻 HTML | CSS | JavaScript
-- 📚 Always learning new DevOps technologies
+- 📦 Git & GitHub
+- 💻 Shell Scripting
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 🛠️ Tools & Technologies:
+# 🛠 Tech Stack
 
-| Linux | Terraform | Jenkins | Kubernets | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
-|----------|----------|----------|----------|------|------|-------|------|------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"  title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
+<p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,bash,vscode"/>
 
-![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 🌱 Contribution Graph
+# 🚀 Featured DevOps Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+| Project | Description |
+|----------|-------------|
+| 🐳 Docker Projects | Dockerfiles, Images & Container Management |
+| ☸️ Kubernetes Projects | Deployments, Services, ReplicaSets |
+| ☁️ AWS Projects | EC2, IAM, S3, VPC, Auto Scaling |
+| 🏗 Terraform | Infrastructure as Code |
+| 🔄 Jenkins | CI/CD Pipelines |
+| 🐧 Linux | Bash Automation & Administration |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 🚀 Featured Projects
+# 📊 GitHub Statistics
 
+<p align="center">
 
-✅ Kubernetes Nginx Deployment
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachin-rathod-tech&show_icons=true&theme=github_dark"/>
 
-✅ CI/CD Pipeline using Jenkins
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rathod-tech&theme=github-dark-blue"/>
 
-✅ Terraform AWS Infrastructure
- 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-## 🚀 Project 
+---
 
- ### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
-A serverless Angular application deployed on AWS infrastructure.
+# 📈 Most Used Languages
 
-- **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
-- **Features**:
-  - Scalable frontend hosted on AWS S3
-  - Secure domain mapping using Route 53
-  - CDN integration via CloudFront for faster delivery
+<p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-rathod-tech&layout=compact&theme=github_dark"/>
 
-### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
-A student management system to handle registrations, grades, and profiles.
+</p>
 
-- **Tech Stack**: Java Spring Boot, Angular
-- **Features**:
-  - CRUD operations for student records
-  - Responsive design for seamless mobile use
-  - Role-based access for students and administrators
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+# 🏆 GitHub Achievements
 
-### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
-A robust 3-tier architecture for a student management application.
+<p align="center">
 
-- **Architecture**:
-  - **Frontend**: Angular
-  - **Backend**: Java Spring Boot
-  - **Database**: MySQL
-- **Features**:
-  - Secure API interactions
-  - Centralized database with scalable backend
-  - Deployed on AWS with load balancing and high availability
+<img src="https://github-profile-trophy.vercel.app/?username=sachin-rathod-tech&theme=algolia&column=4&margin-w=15"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
-A Netflix-inspired application with movie browsing and streaming features.
+---
 
-- **Tech Stack**: React.js, TMDB API
-- **Features**:
-  - Browse and search for movies by genre
-  - Modern, responsive design
+# 📈 Contribution Graph
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+<p align="center">
 
-# 🌐 Connect With Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-rathod-tech&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📜 Current Learning
+
+- Kubernetes Production Deployments
+- Terraform Modules
+- AWS Architecture
+- Jenkins Pipelines
+- GitHub Actions
+- Linux Automation
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/sachin-rathod-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="sachin-rathod@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sachin-rathod-4a3737239?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+---
 
 <div align="center">
 
+### ⭐ Thanks for visiting my profile!
 
-# 👀 Profile Views
+**"Automate repetitive tasks. Build reliable systems. Keep learning."**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-rathod-tech&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-⭐ Thanks for visiting my profile!
+</div>
