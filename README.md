@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SACHIN%20RATHOD&fontSize=55&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
 </p>
 <h3 align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
  🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
 
@@ -14,6 +17,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
+
 ---
 
 ## 🚀 About Me
