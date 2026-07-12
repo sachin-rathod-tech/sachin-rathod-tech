@@ -71,9 +71,9 @@ A serverless Angular application deployed on AWS infrastructure.
 
 - **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
 - **Features**:
-  - Scalable frontend hosted on AWS S3
-  - Secure domain mapping using Route 53
-  - CDN integration via CloudFront for faster delivery
+- Scalable frontend hosted on AWS S3
+- Secure domain mapping using Route 53
+- CDN integration via CloudFront for faster delivery
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -82,9 +82,9 @@ A student management system to handle registrations, grades, and profiles.
 
 - **Tech Stack**: Java Spring Boot, Angular
 - **Features**:
-  - CRUD operations for student records
-  - Responsive design for seamless mobile use
-  - Role-based access for students and administrators
+- CRUD operations for student records
+- Responsive design for seamless mobile use
+- Role-based access for students and administrators
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -92,13 +92,13 @@ A student management system to handle registrations, grades, and profiles.
 A robust 3-tier architecture for a student management application.
 
 - **Architecture**:
-  - **Frontend**: Angular
-  - **Backend**: Java Spring Boot
-  - **Database**: MySQL
+- **Frontend**: Angular
+- **Backend**: Java Spring Boot
+- **Database**: MySQL
 - **Features**:
-  - Secure API interactions
-  - Centralized database with scalable backend
-  - Deployed on AWS with load balancing and high availability
+- Secure API interactions
+- Centralized database with scalable backend
+- Deployed on AWS with load balancing and high availability
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -107,8 +107,8 @@ A Netflix-inspired application with movie browsing and streaming features.
 
 - **Tech Stack**: React.js, TMDB API
 - **Features**:
-  - Browse and search for movies by genre
-  - Modern, responsive design
+- Browse and search for movies by genre
+- Modern, responsive design
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 
