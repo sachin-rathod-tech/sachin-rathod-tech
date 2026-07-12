@@ -21,10 +21,15 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD**
-- 💻 Passionate about DevOps and Cloud Computing
-- 📚 Practicing Linux, Git , GitHub and Docker Project 
-- 🎯 Goal: Become a DevOps Engineer
+- ☁️ AWS Cloud Enthusiast
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes Orchestration
+- 🏗 Infrastructure as Code with Terraform
+- 🔄 CI/CD using Jenkins
+- 🐧 Linux Administration
+- 🌐 Git & GitHub
+- 💻 HTML | CSS | JavaScript
+- 📚 Always learning new DevOps technologies
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
