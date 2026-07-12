@@ -132,10 +132,6 @@ A Netflix-inspired application with movie browsing and streaming features.
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-rathod-tech&layout=compact&theme=tokyonight" height="180em"/>
-</p>
- 
----
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 👀 Profile Views
