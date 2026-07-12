@@ -1,6 +1,7 @@
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SACHIN%20RATHOD&fontSize=55&fontColor=00F7FF&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=SACHIN%20RATHOD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 <h3 align="center">
 <p align="center">
