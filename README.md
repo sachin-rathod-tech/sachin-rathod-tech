@@ -148,8 +148,4 @@ A Netflix-inspired application with movie browsing and streaming features.
 
 ---
 
-## 📈 Contribution Graph
-
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-rathod-tech&theme=tokyo-night)](https://github.com/sachin-rathod-tech)
-
 ⭐ Thanks for visiting my profile!
