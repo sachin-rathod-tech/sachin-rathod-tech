@@ -53,6 +53,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🚀 Project 
+
 ### [☸️ Project Kubernetes Nginx Deployment](#project-kubernetes-nginx-deployment)
 
 A scalable Nginx web server deployment managed using Kubernetes orchestration.
@@ -61,7 +63,9 @@ A scalable Nginx web server deployment managed using Kubernetes orchestration.
 - **Features:**
   - High-availability pod setup using Kubernetes Deployments
   - Service exposure via NodePort / ClusterIP
-  - Automated self-healing and load balancing across container pods
+  - Automated self-healing and load balancing across container pods 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### [⚙️ Project CI/CD Pipeline using Jenkins](#project-cicd-pipeline-using-jenkins)
 
@@ -72,6 +76,9 @@ An end-to-end automated Continuous Integration and Continuous Deployment (CI/CD)
   - Automated code integration and build trigger on code push
   - Static code analysis with SonarQube quality gates
   - Container image building, security scanning, and deployment
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### [🏗️ Project Terraform AWS Infrastructure](#project-terraform-aws-infrastructure)
 
@@ -85,7 +92,6 @@ Infrastructure as Code (IaC) setup to automate AWS cloud resource provisioning.
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Project 
 
  ### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
 A serverless Angular application deployed on AWS infrastructure.
