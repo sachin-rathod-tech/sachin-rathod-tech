@@ -55,6 +55,18 @@
 
 ## 🚀 Project 
 
+### [🎮 Project Super Mario](#project-super-mario)
+
+A nostalgic game inspired by Super Mario, built to explore game development fundamentals.
+
+- **Technologies:** HTML5, CSS3, JavaScript
+- **Features:**
+    - Classic 2D platformer gameplay
+    - Player controls and obstacle interactions
+    - Dynamic animations and scoring system
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ### [☸️ Project Kubernetes Nginx Deployment](#project-kubernetes-nginx-deployment)
 
 A scalable Nginx web server deployment managed using Kubernetes orchestration.
