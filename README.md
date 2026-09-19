@@ -53,14 +53,35 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Featured Projects
+### [☸️ Project Kubernetes Nginx Deployment](#project-kubernetes-nginx-deployment)
 
+A scalable Nginx web server deployment managed using Kubernetes orchestration.
 
-✅ Kubernetes Nginx Deployment
+- **Tech Stack:** Kubernetes (K8s), Nginx, Docker, YAML
+- **Features:**
+  - High-availability pod setup using Kubernetes Deployments
+  - Service exposure via NodePort / ClusterIP
+  - Automated self-healing and load balancing across container pods
 
-✅ CI/CD Pipeline using Jenkins
+### [⚙️ Project CI/CD Pipeline using Jenkins](#project-cicd-pipeline-using-jenkins)
 
-✅ Terraform AWS Infrastructure
+An end-to-end automated Continuous Integration and Continuous Deployment (CI/CD) workflow.
+
+- **Tech Stack:** Jenkins, Git, Docker, SonarQube, Trivy
+- **Features:**
+  - Automated code integration and build trigger on code push
+  - Static code analysis with SonarQube quality gates
+  - Container image building, security scanning, and deployment
+
+### [🏗️ Project Terraform AWS Infrastructure](#project-terraform-aws-infrastructure)
+
+Infrastructure as Code (IaC) setup to automate AWS cloud resource provisioning.
+
+- **Tech Stack:** Terraform (HCL), AWS (EC2, VPC, S3, IAM)
+- **Features:**
+  - Automated cloud environment creation using modular Terraform code
+  - State file management for tracking infrastructure changes
+  - Secure and repeatable AWS resource setup with proper IAM roles and networking
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
