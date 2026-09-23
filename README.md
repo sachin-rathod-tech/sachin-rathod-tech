@@ -17,17 +17,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🚀 About Me
-
-- ☁️ AWS Cloud Enthusiast
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes Orchestration
-- 🏗 Infrastructure as Code with Terraform
-- 🔄 CI/CD using Jenkins
-- 🐧 Linux Administration
-- 🌐 Git & GitHub
-- 💻 HTML | CSS | JavaScript
-- 📚 Always learning new DevOps technologies
+### 🚀 About Me
+- ☁️ DevOps Engineer working with **AWS Cloud** infrastructure
+- 🏗️ Building **Infrastructure as Code** with **Terraform** (VPC, EC2, modular setups)
+- 🐳 Comfortable with **Docker** & containerization
+- ⚙️ Learning **Kubernetes** orchestration
+- 🔁 CI/CD pipelines using **Jenkins**
+- 🐧 Linux administration & Git/GitHub
+- 📚 Always learning and building new DevOps projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
